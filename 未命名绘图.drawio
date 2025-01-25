@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.7" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.7" pages="5">
   <diagram id="2wYpx1eaNTZQjs7z0a-F" name="运算器模块结构图">
     <mxGraphModel dx="367" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -571,6 +571,47 @@
         </mxCell>
         <mxCell id="u3DLbtm2yw3bGYZCfS_d-28" value="所有标志位为0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="275" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Czb5F0AY1kMCCmjrnYJ8" name="混合专家模型">
+    <mxGraphModel dx="724" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="DP93PG7A2nJ5WtOY4Wyd-2" target="DP93PG7A2nJ5WtOY4Wyd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-2" value="" style="shape=switch;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-3" value="FFN1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-4" value="FFN2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-5" value="FFN3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-6" value="FFNn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-7" value="……" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-9" value="路由单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="375" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-10" value="输入数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DP93PG7A2nJ5WtOY4Wyd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="DP93PG7A2nJ5WtOY4Wyd-10" target="DP93PG7A2nJ5WtOY4Wyd-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
