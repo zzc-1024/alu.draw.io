@@ -947,7 +947,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wjgtRPaz2GuskPWpokic-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="520" as="sourcePoint" />
+            <mxPoint x="200" y="440" as="sourcePoint" />
             <mxPoint x="200" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1000,18 +1000,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="400" as="sourcePoint" />
             <mxPoint x="210" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wjgtRPaz2GuskPWpokic-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="440" as="sourcePoint" />
-            <mxPoint x="210" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wjgtRPaz2GuskPWpokic-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="480" as="sourcePoint" />
-            <mxPoint x="210" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wjgtRPaz2GuskPWpokic-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1073,6 +1061,15 @@
         </mxCell>
         <mxCell id="wjgtRPaz2GuskPWpokic-30" value="(3,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjgtRPaz2GuskPWpokic-31" value="信息处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#00ff00, #a18eb3);strokeColor=#432D57;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjgtRPaz2GuskPWpokic-32" value="研究所" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjgtRPaz2GuskPWpokic-33" value="智能信息&lt;div&gt;处理研究所&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
