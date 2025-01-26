@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.7" pages="7">
   <diagram id="c9m5edN-by091q8Q2W8w" name="模型架构图">
-    <mxGraphModel dx="1236" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,7 +238,7 @@
         <mxCell id="nKGX-rHVwq4NejqkKsHU-23" value="SoftMax" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="124" y="300" width="112" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKGX-rHVwq4NejqkKsHU-30" value="SoftMax" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="nKGX-rHVwq4NejqkKsHU-30" value="全连接层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="124" y="240" width="112" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKGX-rHVwq4NejqkKsHU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="nKGX-rHVwq4NejqkKsHU-1" target="nKGX-rHVwq4NejqkKsHU-3">
