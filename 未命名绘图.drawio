@@ -135,7 +135,7 @@
         <mxCell id="MorRKXvA5-KZoMembWxP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="MorRKXvA5-KZoMembWxP-53" target="MorRKXvA5-KZoMembWxP-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MorRKXvA5-KZoMembWxP-53" value="正则化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="MorRKXvA5-KZoMembWxP-53" value="归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="624" y="240" width="112" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MorRKXvA5-KZoMembWxP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="MorRKXvA5-KZoMembWxP-54" target="MorRKXvA5-KZoMembWxP-55">
@@ -159,7 +159,7 @@
         <mxCell id="nKGX-rHVwq4NejqkKsHU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="nKGX-rHVwq4NejqkKsHU-3" target="nKGX-rHVwq4NejqkKsHU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKGX-rHVwq4NejqkKsHU-3" value="正则化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="nKGX-rHVwq4NejqkKsHU-3" value="归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="124" y="570" width="112" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKGX-rHVwq4NejqkKsHU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="nKGX-rHVwq4NejqkKsHU-4" target="nKGX-rHVwq4NejqkKsHU-5">
